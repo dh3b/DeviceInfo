@@ -5,7 +5,7 @@ Device info is a short and quick batch script which collects short PC specificat
 You can download source.bat from repository and use as
 > call directory\source.bat
 
-Or you can use [Installation command]()
+Or you can use [Installation command](https://raw.githubusercontent.com/dh3b/DeviceInfo/v.1.0/download.cmd)
 
 ### 🎈 Parameters
 deviceinfo [`--NoColors`] [`--Filter (option)`] 
