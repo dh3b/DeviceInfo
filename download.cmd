@@ -1,0 +1,1 @@
+curl -L# "https://raw.githubusercontent.com/dh3b/DeviceInfo/v.1.0/Source.bat" -o "%localappdata%\microsoft\windowsapps\deviceinfo.bat" & echo Installed DeviceInfo! & echo To run the script restart cmd and run with `deviceinfo` command & pause & exit
