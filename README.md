@@ -23,8 +23,11 @@ You can also combine parameters
 
 But you can't run multiple filters
 > ~~deviceinfo --Filter PC USB~~
+> 
 > ~~deviceinfo --Filter PC --Filter USB~~
+> 
 > ~~deviceinfo --NoColors --Filter PC USB~~
+> 
 
 ### 🧵 Available parameters
 Available parameters are
@@ -35,3 +38,6 @@ Available parameters are
 - Net
 
 ### 📸 Screenshots
+![image](https://user-images.githubusercontent.com/74708369/144753509-81f153be-000e-401a-afa0-193d81d92813.png)
+![image](https://user-images.githubusercontent.com/74708369/144753511-58f62e28-3d6b-4435-abff-db15785939d2.png)
+![image](https://user-images.githubusercontent.com/74708369/144753515-ff15c982-bba7-4e9e-94fb-63f226457c6d.png)
